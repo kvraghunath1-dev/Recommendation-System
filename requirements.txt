@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+jupyter
+openpyxl
+scipy
+boto3
+s3fs
+python-dateutil
