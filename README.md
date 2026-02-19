@@ -8,7 +8,7 @@
 
 The goal of this project is to identify high-potential games to bet on by leveraging historical betting data and the season's game schedule.
 
-> ⚠️ **Note:** This was a take-home interview assignment completed within a set timeline. All real data has been replaced with dummy data. The recommendation model is currently a work in progress.
+> ⚠️ **Note:** This was a take-home interview assignment completed within a set timeline. All real data has been replaced with dummy data. The recommendation model is built but the production workflow is currently a work in progress.
 
 ---
 
@@ -22,7 +22,6 @@ The goal of this project is to identify high-potential games to bet on by levera
 ### 2) Validation
 - Simulate a 2-week betting period using historical season data
 - Compare pre-season schedule recommendations against actual games played
-- Detect and document discrepancies from schedule drift or mismatches
 
 ### 3) Reporting & Deployment
 - Build a Streamlit dashboard to visualize model performance and validation results
